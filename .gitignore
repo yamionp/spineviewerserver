@@ -1,0 +1,14 @@
+.DS_Store
+ 
+*.py[cod]
+ 
+# C extensions
+*.so
+ 
+# Packages
+*.egg
+*.egg-info
+
+# IDE Config
+.idea
+
